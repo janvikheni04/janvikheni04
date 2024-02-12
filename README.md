@@ -1,4 +1,4 @@
-![logo](https://github.com/janvikheni04/janvikheni04/blob/main/Banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Janvi Kheni</h1>
 <h3 align="center">A passionate Data Analytics</h3>
 
