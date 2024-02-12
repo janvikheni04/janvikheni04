@@ -1,7 +1,7 @@
 ![logo](https://github.com/janvikheni04/janvikheni04/blob/main/Final-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Janvi Kheni</h1>
 <h3 align="center">A passionate Data Analytics</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janvikheni04&label=Profile%20views&color=0e75b6&style=flat" alt="janvikheni04" /> </p>
 
 - 📫 How to reach me **janvikhen04@gmail.com**
