@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **janvikhen04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dak6bE22avgrDqj63nsZAyYyFjbpBkor/view?usp=sharing](https://drive.google.com/file/d/1Dak6bE22avgrDqj63nsZAyYyFjbpBkor/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1L7_sLFRRmOibVJjtp1Ba1K6XdiwuU1er/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 
